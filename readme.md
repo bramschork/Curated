@@ -1,3 +1,10 @@
+# Curated
+
+### About the Project
+Hi - I'm Bram. I constantly come across cool websites and products I wish I could share. My bookmarks bar is an overflowing mess of hundreds of different catgeories of products, each offering a cool solution to a specific niche. That's why I created Curated, a simple list to track all those cool services.
+
+Have a suggestion for the list? Please fill out the [suggestion form here.](https://form.jotform.com/250145728035049) If you want to chat, my email is [bram@bramschork.com](mailto:bram@bramschork.com).
+
 ## Interview Prep
 ### Mechanical Engineering
 - [The Mechanical Engineering Technical Interview](https://hardwareishard.com/the-technical-interview?utm_source=substack&utm_medium=email)
@@ -56,6 +63,7 @@ Kernel-Based Virtual Machine. Allows for remote access of a machine on a physica
 ## Media
 ### Books
 - Liar's Poker: Rising through the Wreckage on Wall Street by Michael Lewis
+<<<<<<< HEAD
 ### News
 [Slashdot - nerd new](https://slashdot.org/)
 [Payload - business & policy of space](https://payloadspace.com/)
@@ -70,3 +78,5 @@ Kernel-Based Virtual Machine. Allows for remote access of a machine on a physica
 ## Learning
 [Globe Explorer - search discovery engine](https://explorer.globe.engineer/)
 [Erowid - information on plants and drugs](https://www.erowid.org/)
+=======
+>>>>>>> d46f72e3137635b79d01c33e1f6e5e1b0eeb8c96
