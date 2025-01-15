@@ -21,15 +21,22 @@
 - [Plane - Open Source Project Management](https://github.com/makeplane/plane)
 - [Team Gantt](https://www.teamgantt.com/)
 - [Rollup - Systems Engineering, Mechanical Design, Program Management](https://rollup.ai/)
+- [Odoo: Open Source ERP and CRM](https://www.odoo.com/)
 ### Data Visualization
 - [Sankey Diagram](https://en.wikipedia.org/wiki/Sankey_diagram)
 - [Prometheus - Monitoring system & time series database](https://prometheus.io/)
+
+### Notes
+[Ditto - communical lists](https://www.getbreezi.com/)
 
 ## AI
 ### Programming
 - [PearAI - Virtual AI Engineer](https://trypear.ai/pricing)
 ## Travel
 - [Tramona](https://www.tramona.com/)
+- [PointsYeah - points travel planning](https://www.pointsyeah.com/)
+- [Point.me - points travel planning ](https://www.point.me/)
+- [Roame - points travel planning](https://roame.travel/)
 
 ## Infrastructure
 ### Network
@@ -49,3 +56,17 @@ Kernel-Based Virtual Machine. Allows for remote access of a machine on a physica
 ## Media
 ### Books
 - Liar's Poker: Rising through the Wreckage on Wall Street by Michael Lewis
+### News
+[Slashdot - nerd new](https://slashdot.org/)
+[Payload - business & policy of space](https://payloadspace.com/)
+## Food
+
+## Drinks
+[Huel - nutritional shakes](https://huel.com/)
+[LMNT - zero-sugar salt electrolytes](https://drinklmnt.com/)
+### Supplements
+[Thesis - nootropics](https://takethesis.com/)
+
+## Learning
+[Globe Explorer - search discovery engine](https://explorer.globe.engineer/)
+[Erowid - information on plants and drugs](https://www.erowid.org/)
