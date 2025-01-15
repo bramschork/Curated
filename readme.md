@@ -34,7 +34,7 @@ Have a suggestion for the list? Please fill out the [suggestion form here.](http
 - [Prometheus - Monitoring system & time series database](https://prometheus.io/)
 
 ### Notes
-[Ditto - communical lists](https://www.getbreezi.com/)
+- [Ditto - communical lists](https://www.getbreezi.com/)
 
 ## AI
 ### Programming
@@ -63,20 +63,18 @@ Kernel-Based Virtual Machine. Allows for remote access of a machine on a physica
 ## Media
 ### Books
 - Liar's Poker: Rising through the Wreckage on Wall Street by Michael Lewis
-<<<<<<< HEAD
 ### News
-[Slashdot - nerd new](https://slashdot.org/)
-[Payload - business & policy of space](https://payloadspace.com/)
+- [Slashdot - nerd new](https://slashdot.org/)
+- [Payload - business & policy of space](https://payloadspace.com/)
 ## Food
 
 ## Drinks
-[Huel - nutritional shakes](https://huel.com/)
-[LMNT - zero-sugar salt electrolytes](https://drinklmnt.com/)
+- [Huel - nutritional shakes](https://huel.com/)
+- [LMNT - zero-sugar salt electrolytes](https://drinklmnt.com/)
+
 ### Supplements
-[Thesis - nootropics](https://takethesis.com/)
+- [Thesis - nootropics](https://takethesis.com/)
 
 ## Learning
-[Globe Explorer - search discovery engine](https://explorer.globe.engineer/)
-[Erowid - information on plants and drugs](https://www.erowid.org/)
-=======
->>>>>>> d46f72e3137635b79d01c33e1f6e5e1b0eeb8c96
+- [Globe Explorer - search discovery engine](https://explorer.globe.engineer/)
+- [Erowid - information on plants and drugs](https://www.erowid.org/)
