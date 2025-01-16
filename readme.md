@@ -52,6 +52,12 @@ Have a suggestion for the list? Please fill out the [suggestion form here.](http
 
 ##  Products
 ### Technology
+### Software
+#### Automation
+- [ChiefOnboarding](https://chiefonboarding.com) - Employee onboarding platform that allows you to provision user accounts and create sequences with todo items, resources, text/email/Slack messages, and more! Available as a web portal and Slack
+
+### Self-Hosted Software
+- [awesome-selfhosted GitHub List](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file)
 #### KVM
 Kernel-Based Virtual Machine. Allows for remote access of a machine on a physical/hardware level.
 - [PiKVM - open-source Raspberry Pi based KVM over IP](https://pikvm.org/)
