@@ -82,5 +82,13 @@ Kernel-Based Virtual Machine. Allows for remote access of a machine on a physica
 - [Thesis - nootropics](https://takethesis.com/)
 
 ## Learning
+### Learning Tools
 - [Globe Explorer - search discovery engine](https://explorer.globe.engineer/)
+
+### Plants, Drugs, and Medicine
 - [Erowid - information on plants and drugs](https://www.erowid.org/)
+### Space
+#### Energy
+- [Radioisotope thermoelectric generator - nuclear battery](https://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator)
+
+
